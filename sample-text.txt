@@ -1,0 +1,16 @@
+This is a sample text file created via GitHub MCP server.
+
+Features:
+- Created using automated tools
+- Demonstrates MCP server functionality
+- Ready for pull request creation
+
+Content:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+Technical Details:
+- File created: 2025-08-29
+- Method: GitHub MCP Server
+- Purpose: Testing cursor development workflow
