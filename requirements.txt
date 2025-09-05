@@ -1,0 +1,13 @@
+# Python Spark Dependencies for Databricks Operations
+# Required for Linear Issue COM-5
+
+# PySpark - Main dependency for Spark operations
+pyspark>=3.4.0
+
+# Optional: Additional dependencies for enhanced functionality
+# databricks-connect>=13.0.0  # Uncomment if using Databricks Connect
+# delta-spark>=2.4.0          # Uncomment if working with Delta Lake tables
+
+# Development dependencies (uncomment if needed for testing)
+# pytest>=7.0.0
+# pytest-spark>=0.6.0
